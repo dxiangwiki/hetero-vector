@@ -1,0 +1,19 @@
+# build
+build/
+cmake-build-*/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.swp
+*.swo
+
+# logs
+*.log
